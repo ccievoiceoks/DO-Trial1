@@ -20,4 +20,6 @@ Digital trial 1 setup
 12. resource the bash_profile
 13. Use it
 
+14. Install nginx with document [Nginx Installation](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-18-04)
+    > # But stop the server for the moment as we don't use it
 
